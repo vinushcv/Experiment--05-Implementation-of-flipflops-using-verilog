@@ -163,22 +163,19 @@ nand(B,T,clock,Q);
 nand(Q,A,Qbar);
 nand(Qbar,B,Q);
 endmodule
-
-
-
-
-
-
 ```
 ### RTL LOGIC FOR FLIPFLOPS 
+RTL1
+![5rtl](https://user-images.githubusercontent.com/113975318/212937106-080ac61e-72ef-49cb-9340-b86fb177f585.jpg)
 
+RTL2
+![55rtl](https://user-images.githubusercontent.com/113975318/212937182-9d3ab346-befe-4c75-8f3c-10a0bcef36cc.jpg)
 
+RTL3
+![555rtl](https://user-images.githubusercontent.com/113975318/212937234-a6d25b64-9263-4a78-aed0-2ede7159afb6.jpg)
 
-
-
-
-
-
+RTL4
+![5555rtl](https://user-images.githubusercontent.com/113975318/212937283-a4e72d2a-68d3-4fe0-813b-bc8f17a139a0.jpg)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
