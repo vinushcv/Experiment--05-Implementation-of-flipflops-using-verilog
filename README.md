@@ -179,11 +179,17 @@ RTL4
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
+TIMING GRAPH 1
+![5tg](https://user-images.githubusercontent.com/113975318/212937452-5356cd78-b91f-4944-a12f-76bc87fa7e55.jpg)
 
+TIMING GRAPH 2
+![55tg](https://user-images.githubusercontent.com/113975318/212937502-6b7a4e15-c6ea-4a07-ad2c-aa0475765277.jpg)
 
+TIMING GRAPH 3
+![555tg](https://user-images.githubusercontent.com/113975318/212937541-cb7988ff-4064-41e1-80f8-58a957e0fd9c.jpg)
 
-
-
-
+TIMING GRAPH 4
+![5555tg](https://user-images.githubusercontent.com/113975318/212937593-8a59a2fa-8d1c-4f06-ace0-c22a5ab0765e.jpg)
 
 ### RESULTS 
+Thus implementation of SR,JK,D and T flipflops using nand gates are done sucessfully.
